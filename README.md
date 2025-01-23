@@ -16,9 +16,7 @@ These notebooks are designed to help students:
 ### 1. Fitts's Law Analysis (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/fitts_law.ipynb)
 An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
 
-The notebook will soon include:
-
-### 2. Stevens's Power Law Analysis (`stevens_power_law.ipynb`)
+### 2. Stevens's Power Law Analysis (`stevens.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/stevens.ipynb)
 Explores psychophysical scaling and the relationship between physical stimuli and perceived intensity in UI elements.
 
 ### 3. Hick's Law Demonstration (`hicks_law.ipynb`) 
