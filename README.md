@@ -13,7 +13,7 @@ These notebooks are designed to help students:
 
 ## 📓 Notebook Contents
 
-### 1. Fitts's Law Analysis (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd-notebooks/blob/main/fitts_law.ipynb)
+### 1. Fitts's Law Analysis (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/fitts_law.ipynb)
 An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
 
 The notebook will soon include:
