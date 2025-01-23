@@ -11,26 +11,9 @@ These notebooks are designed to help students:
 - 💡 Generate insights from user testing
 - 📝 Present design recommendations
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.7+
-- Jupyter Notebook or JupyterLab
-- Required Python packages (install via `pip install -r requirements.txt`):
-  - pandas
-  - seaborn
-  - numpy
-  - matplotlib
-  - scipy
-
-### 🛠️ Installation
-1. Clone this repository
-2. Install required packages: `pip install -r requirements.txt`
-3. Launch Jupyter Notebook: `jupyter notebook`
-
 ## 📓 Notebook Contents
 
-### 1. Fitts's Law Analysis (`fitts_law.ipynb`)
+### 1. Fitts's Law Analysis (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd-notebooks/blob/main/fitts_law.ipynb)
 An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
 
 The notebook will soon include:
@@ -56,9 +39,16 @@ Studies spatial resolution in touch interfaces and minimum distinguishable dista
 
 ## 🤝 Contributing
 
-Feel free to contribute to this project. Add new Notebooks that help us explore HCI .
+Feel free to contribute to this project. Add new Notebooks that help us explore HCI.
 
 ## 📄 License
 
 This project is licensed under Creative Commons (CC BY 4.0).
+
+## 📝 Note for Students
+
+When using Google Colab:
+1. The notebooks will save to your Google Drive
+2. You can modify and experiment with the code without affecting the original
+3. Share your work by exporting to PDF or sharing your Colab notebook link
 
