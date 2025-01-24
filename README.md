@@ -13,14 +13,16 @@ These notebooks are designed to help students:
 
 ## 📓 Notebook Contents
 
-### 1. Fitts's Law Experiment (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/fitts_law.ipynb)
-An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
+### 1. Visual Search Experiment (`hicks_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/hicks_law.ipynb)
+Analyzes decision-making time based on the number of choices, with practical applications for menu design and interface complexity.
 
 ### 2. Stevens's Power Law Experiment (`stevens.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/stevens.ipynb)
 Explores psychophysical scaling and the relationship between physical stimuli and perceived intensity in UI elements.
 
-### 3. Visual Search Experiment (`hicks_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/hicks_law.ipynb)
-Analyzes decision-making time based on the number of choices, with practical applications for menu design and interface complexity.
+### 3. Fitts's Law Experiment (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/fitts_law.ipynb)
+An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
+
+
 
 <!-- ### 4. Miller's Law Investigation (`millers_law.ipynb`)
 Examines the "magical number seven plus or minus two" principle and its implications for chunking information in interface design.
