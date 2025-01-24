@@ -19,7 +19,7 @@ An interactive notebook demonstrating Fitts's Law, a fundamental principle in hu
 ### 2. Stevens's Power Law Analysis (`stevens.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/stevens.ipynb)
 Explores psychophysical scaling and the relationship between physical stimuli and perceived intensity in UI elements.
 
-### 3. Hick's Law Demonstration (`hicks_law.ipynb`) 
+<!-- ### 3. Hick's Law Demonstration (`hicks_law.ipynb`) 
 Analyzes decision-making time based on the number of choices, with practical applications for menu design and interface complexity.
 
 ### 4. Miller's Law Investigation (`millers_law.ipynb`)
@@ -33,7 +33,7 @@ Studies spatial resolution in touch interfaces and minimum distinguishable dista
 - Color Theory and Perception Tests
 - Response Time Analysis
 - Error Rate Measurements
-- User Attention Tracking
+- User Attention Tracking -->
 
 ## 🤝 Contributing
 
