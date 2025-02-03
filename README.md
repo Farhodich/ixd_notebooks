@@ -22,13 +22,15 @@ Explores psychophysical scaling and the relationship between physical stimuli an
 ### 3. Fitts's Law Experiment (`fitts_law.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/fitts_law.ipynb)
 An interactive notebook demonstrating Fitts's Law, a fundamental principle in human-computer interaction that predicts the time required to move to and select a target.
 
+### 4. Working Memory Decay Analysis (`wm_decay.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/wm_decay.ipynb)
+Analyzes the decay of working memory over time and serial position effects, with applications for information presentation and user interface design.
 
+### 5. Two-Point Threshold Test (`two_point_threshold.ipynb`) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/ixd_notebooks/blob/main/two_point_threshold.ipynb)
+Studies spatial resolution in touch interfaces and minimum distinguishable distances for touch targets.
 
 <!-- ### 4. Miller's Law Investigation (`millers_law.ipynb`)
 Examines the "magical number seven plus or minus two" principle and its implications for chunking information in interface design.
 
-### 5. Two-Point Threshold Test (`two_point_threshold.ipynb`)
-Studies spatial resolution in touch interfaces and minimum distinguishable distances for touch targets.
 
 ### 6. Additional HCI Experiments 🧪
 - Gestalt Principles in UI Design
